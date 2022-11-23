@@ -15,9 +15,11 @@ int main() {
             fibonacci_p = temp;
             cout << fibonacci << endl;
         }
-    }else{
+    }
+    else
+    {
         cout << "errore"<<endl;
     }
-    return 0;
+    return 0;
 }
 
