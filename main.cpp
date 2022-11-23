@@ -22,5 +22,5 @@ int main() {
     {
         cout << "errore"<<endl;
     }
-    return null;
+    return (0);
 }
